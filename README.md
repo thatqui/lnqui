@@ -14,8 +14,9 @@
 
 ### Changing Values
 
-- We have example files ([index.html](./index.html) and [style.css](./style.css)).
-- You can configure these.
+- We have example files ([qui/index.html](qui/index.html) and [qui/style.css](qui/style.css)).
+- Create a folder with your username.
+- Write your HTML. (you can copy qui folder.)
 - And open an issue in my repo. I'll look.
 
 ## Q&A
