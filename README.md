@@ -17,7 +17,8 @@
 - We have example files ([qui/index.html](qui/index.html) and [qui/style.css](qui/style.css)).
 - Create a folder with your username.
 - Write your HTML. (you can copy qui folder.)
-- And open an issue in my repo. I'll look.
+- Add your name to [index.html](./index.html).
+- And open pull request.
 
 ## Q&A
 
