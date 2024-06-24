@@ -1,0 +1,33 @@
+/* THIS IS EXAMPLE CODE */
+/* YOU CAN CUSTOMIZE IT */
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body {
+    display: block;
+    text-align: center;
+    background-color: #2e3440;
+    color: #e5e9f0;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.nord-link {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ECEFF4;
+    background-color: #5E81AC;
+    border: 2px solid #88C0D0;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin: 5px;
+}
+
+.nord-link:hover {
+    background-color: #81A1C1;
+    transform: scale(1.05);
+}
+
+.nord-link:active {
+    transform: scale(0.95);
+}
