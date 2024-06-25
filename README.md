@@ -4,4 +4,4 @@
 
 ## Docs
 
-- Please see https://ln.quitaxd.online/docs
+- Please see [wiki page](https://github.com/thatqui/lnqui/wiki).
